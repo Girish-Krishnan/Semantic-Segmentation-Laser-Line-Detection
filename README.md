@@ -1,5 +1,8 @@
 # Semantic Segmentation for Laser Line Detection in Autonomous Welding
 
+Girish Krishnan | [LinkedIn](https://www.linkedin.com/in/girk/) | [GitHub](https://github.com/Girish-Krishnan)
+___
+
 This project implements a semantic segmentation model to detect laser lines for autonomous robot welding. The model uses a U-Net architecture to predict binary masks indicating laser lines in input images. The application is tailored for the detection of precise welding paths in automated systems, improving welding accuracy and efficiency.
 
 ![Example 3](media/result_3.png)
