@@ -48,8 +48,8 @@ Here is the architecture of the U-Net model used for semantic segmentation, assu
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Girish-Krishnan/semantic-segmentation-welding.git
-   cd semantic-segmentation-welding
+   git clone https://github.com/Girish-Krishnan/Semantic-Segmentation-Laser-Line-Detection.git
+   cd Semantic-Segmentation-Laser-Line-Detection
    ```
 
 2. **Install Dependencies:**
